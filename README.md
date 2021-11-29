@@ -1,7 +1,7 @@
-## Avant propos 
+# Avant propos 
 Quelques suggestions pour faciliter le travail collaboratif et les gestions des changements
 
-## Utiliser un outil de Gestion de versions : Git
+# Utiliser un outil de Gestion de versions : Git
 Liens
 * https://fr.wikipedia.org/wiki/Gestion_de_versions
 * https://fr.wikipedia.org/wiki/Git
@@ -13,7 +13,7 @@ Principes :
 * Github is where you store your code and collaborate with the others 
 * GitHub Desktop helps you work with GitHub locally 
 
-# Préparation
+## Préparation
 Tous
 * Créer un compte sur GitHub
 * Se partager les identifiants (pas les mots de passe)
@@ -41,11 +41,10 @@ Il doit y avoir un dossier avec
 * les fichiers du dépot 
 * un dossier .git (fichiers de gestion de git)
 
-
-# Utilisation
+## Utilisation
 Faire des tests pour vérifier le principe sur un depot de test
 * Modifier, committer, synchroniser ...
 * Attention aux conflits
 * Renommer VIA git
 
-### Prochaine étape : Utiliser un IDE avec Version Control System intégré : VS Code
+# Prochaine étape : Utiliser un IDE avec Version Control System intégré : VS Code
