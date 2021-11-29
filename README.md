@@ -9,9 +9,9 @@ Liens
 * GitHub : https://github.com/
 
 Principes : 
-* Git is the version control system 
-* Github is where you store your code and collaborate with the others 
-* GitHub Desktop helps you work with GitHub locally 
+* Git est un logicile de système de contrôle de versions (de codes)
+* Github est le site où est stocké le code 
+* GitHub Desktop est une application plus simple d'utilisation que Git
 
 ## Préparation
 Tous
@@ -33,9 +33,9 @@ Autre collaborateurs :
 ```
 * Installer GitHub Desktop (optionnel, mais plus intégré à GitHub)
 * Cloner le dépot localement pour créer une copie de travail
-    * Avec Git, en ligne de commande  ``git clone https://github.com/Mathias3303/Misc.git C:\users\jerome\Deskop\MesDepots\Misc
+    * (Avec Git, en ligne de commande  ``git clone https://github.com/Mathias3303/Misc.git C:\users\jerome\Deskop\MesDepots\Misc)
     * Avec Git, avec Git GUI
-    * Avec GitHubDekstop
+    * Avec GitHubDekstop !
 
 Il doit y avoir un dossier avec 
 * les fichiers du dépot 
