@@ -30,11 +30,20 @@ Autre collaborateurs :
     git config --global user.email johndoe@example.com
 ```
 * Installer GitHub Desktop (optionnel, mais plus intégré à GitHub)
-* Cloner le dépot localement
+* Cloner le dépot localement pour créer une copie de travail
+** Avec Git, en ligne de commande  ````git clone https://github.com/Mathias3303/Misc.git C:\users\jerome\Deskop\MesDepots\Misc
+** Avec Git, avec Git GUI
+** Avec GitHubDekstop
+
+Il doit y avoir un dossier avec 
+* les fichiers du dépot 
+* un dossier .git (fichiers de gestion de git)
+
 
 # Utilisation
-Faire des tests pour vérifier le principe.
+Faire des tests pour vérifier le principe sur un depot de test
 * Modifier, committer, synchroniser ...
 * Attention aux conflits
+* Renommer VIA git
 
 ### Prochaine étape : Utiliser un IDE avec Version Control System intégré : VS Code
