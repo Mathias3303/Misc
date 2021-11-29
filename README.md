@@ -33,9 +33,9 @@ Autre collaborateurs :
 ```
 * Installer GitHub Desktop (optionnel, mais plus intégré à GitHub)
 * Cloner le dépot localement pour créer une copie de travail
-** Avec Git, en ligne de commande  ``git clone https://github.com/Mathias3303/Misc.git C:\users\jerome\Deskop\MesDepots\Misc
-** Avec Git, avec Git GUI
-** Avec GitHubDekstop
+    * Avec Git, en ligne de commande  ``git clone https://github.com/Mathias3303/Misc.git C:\users\jerome\Deskop\MesDepots\Misc
+    * Avec Git, avec Git GUI
+    * Avec GitHubDekstop
 
 Il doit y avoir un dossier avec 
 * les fichiers du dépot 
