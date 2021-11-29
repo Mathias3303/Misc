@@ -1,5 +1,5 @@
 ## Avant propos 
-Quelques suggestions pour faciliter le travail collaboratif
+Quelques suggestions pour faciliter le travail collaboratif et les gestions des changements
 
 ## Utiliser un outil de Gestion de versions : Git
 Liens
@@ -11,7 +11,7 @@ Liens
 Principes : 
 * Git is the version control system 
 * Github is where you store your code and collaborate with the others 
-* GitHub Desktop helps you work with GutHub locally 
+* GitHub Desktop helps you work with GitHub locally 
 
 # Préparation
 * Créer un compte sur GitHub
