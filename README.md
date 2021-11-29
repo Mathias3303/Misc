@@ -1,3 +1,6 @@
+CE DEPOT EST UN DEPOT-TEST POUR COMMITER, MANIPULER, PUSH/PULL DES MODIFICATIONS...
+
+
 # Avant propos 
 Quelques suggestions pour faciliter le travail collaboratif et les gestions des changements
 
