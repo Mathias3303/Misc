@@ -14,12 +14,13 @@ Principes :
 * GitHub Desktop helps you work with GitHub locally 
 
 # Préparation
+Tous
 * Créer un compte sur GitHub
 * Se partager les identifiants (pas les mots de passe)
 * Créer ou choisir un dépot pour tester - Ex : Mathias3303/Misc
 * Créer ou choisir un dépot pour travailler - Ex : Mathias3303/ProjetInfo
 
-Mathias3303 : Donner les accès aux projets 
+Le collaborateur qui va héberger le dépôt (Mathias3303?) Donner les accès aux projets 
 ``` GitHub > /Projet/ > Settings > Manage access
 
 Autre collaborateurs : 
