@@ -21,7 +21,7 @@ Tous
 * Créer ou choisir un dépot pour travailler - Ex : Mathias3303/ProjetInfo
 
 Le collaborateur qui va héberger le dépôt (Mathias3303?) Donner les accès aux projets 
-``` GitHub > /Projet/ > Settings > Manage access
+`` GitHub > /Projet/ > Settings > Manage access
 
 Autre collaborateurs : 
 * Installer Git 
@@ -32,7 +32,7 @@ Autre collaborateurs :
 ```
 * Installer GitHub Desktop (optionnel, mais plus intégré à GitHub)
 * Cloner le dépot localement pour créer une copie de travail
-** Avec Git, en ligne de commande  ````git clone https://github.com/Mathias3303/Misc.git C:\users\jerome\Deskop\MesDepots\Misc
+** Avec Git, en ligne de commande  ``git clone https://github.com/Mathias3303/Misc.git C:\users\jerome\Deskop\MesDepots\Misc
 ** Avec Git, avec Git GUI
 ** Avec GitHubDekstop
 
