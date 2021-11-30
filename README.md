@@ -42,8 +42,8 @@ Cloner le dépot localement pour créer une copie de travail
 * Avec GitHubDekstop
 * Avec Git, avec Explorer > Git GUI
 * Avec Git, en ligne de commande  
-```git clone https://github.com/Mathias3303/Misc.git 
-C:\users\jerome\Deskop\MesDepots\Misc 
+```
+git clone https://github.com/Mathias3303/Misc.git C:\users\jerome\Deskop\MesDepots\Misc 
 ```
 
 Il doit y avoir un dossier avec 
@@ -66,4 +66,5 @@ Faire des tests pour vérifier le principe sur un depot de test
 * Attention au début quand le fichier est petit, qu'il y a beaucoup de modification (conflits !?) 
 * Renommer un fichier : via git (?)
 
-# Prochaine étape : Utiliser un IDE avec Version Control System intégré : VS Code
+# Etapes suivantes
+Utiliser un IDE avec Version Control System intégré : VS Code
