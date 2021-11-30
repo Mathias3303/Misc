@@ -1,3 +1,6 @@
+CE DEPOT EST UN DEPOT-TEST POUR COMMITER, MANIPULER, PUSH/PULL DES MODIFICATIONS...
+
+
 # Avant propos 
 Quelques suggestions pour faciliter le travail collaboratif et les gestions des changements
 
@@ -9,9 +12,9 @@ Liens
 * GitHub : https://github.com/
 
 Principes : 
-* Git is the version control system 
-* Github is where you store your code and collaborate with the others 
-* GitHub Desktop helps you work with GitHub locally 
+* Git est un logiciel de système de contrôle de versions (de codes)
+* Github est le site où est stocké le code 
+* GitHub Desktop est une application plus simple d'utilisation que Git
 
 ## Préparation
 Tous:
@@ -61,6 +64,6 @@ Et le cycle reprend ...
 Faire des tests pour vérifier le principe sur un depot de test
 * Modifier, committer, pousser, synchroniser pour récupérer les modifications des collaborateurs ...
 * Attention au début quand le fichier est petit, qu'il y a beaucoup de modification (conflits !?) 
-* Renommer VIA git
+* Renommer un fichier : via git (?)
 
 # Prochaine étape : Utiliser un IDE avec Version Control System intégré : VS Code
