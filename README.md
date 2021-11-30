@@ -40,7 +40,6 @@ Autre collaborateurs :
 
 Cloner le dépot localement pour créer une copie de travail
 * Avec GitHubDekstop
-* 
 ![Capture écran](https://raw.githubusercontent.com/Mathias3303/Misc/main/docs/GitHub%20Desktop-clone.png)
 * Avec Git, avec Explorer > Git GUI
 * Avec Git, en ligne de commande  
